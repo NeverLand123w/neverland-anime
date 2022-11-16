@@ -1,0 +1,5 @@
+{
+    "require-dev": {
+        "davidgrzyb/deploy-laravel-on-vercel": "^0.1.0"
+    }
+}
